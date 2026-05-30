@@ -1,0 +1,12 @@
+# 忽略放 Kaggle 原始圖片的資料夾
+data/
+
+# 忽略前處理完產出的 NumPy 矩陣大檔案
+*.npy
+
+# 忽略 Python 自動產生的暫存快取
+__pycache__/
+*.pyc
+
+# 忽略 Jupyter Notebook 的檢查點暫存
+.ipynb_checkpoints/
